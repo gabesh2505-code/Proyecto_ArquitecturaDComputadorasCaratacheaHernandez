@@ -1,0 +1,470 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/19.1
+vAdder
+Z0 !s110 1764447117
+!i10b 1
+!s100 n77@Ynhk`<QJgmaic=KL32
+IKVNM8GmSJTP7^oPXQLOll3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/PC/Desktop/Jesus/Tareas INFO/Arquitectura de Computadoras/Proyecto de MIPS PIPELINE
+w1764447027
+8C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\ADDERS.v
+FC:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\ADDERS.v
+L0 2
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1764447117.000000
+!s107 C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\ADDERS.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\ADDERS.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@adder
+vALU
+R0
+!i10b 1
+!s100 n<Ta;hHiR99TfBC6`4:lS1
+INdhE^J7j;eGFz4b;n1HQJ3
+R1
+R2
+w1764447028
+8C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\ALU.v
+FC:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\ALU.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\ALU.v|
+!i113 1
+R5
+R6
+n@a@l@u
+vALUControl
+R0
+!i10b 1
+!s100 MX4Hin9SS2DSY<kWAOEDP3
+IHOBjXmPKM@?FS9c]PTj=W3
+R1
+R2
+w1764447024
+8C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\ALU_CONTROL.v
+FC:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\ALU_CONTROL.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\ALU_CONTROL.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\ALU_CONTROL.v|
+!i113 1
+R5
+R6
+n@a@l@u@control
+vControlUnit
+R0
+!i10b 1
+!s100 89C[CBem?7moZ]QSU^ZE03
+IQnOo;aIA`1Uj8j7PTlhc@0
+R1
+R2
+w1764447088
+8C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\UNIDAD_DE_CONTROL.v
+FC:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\UNIDAD_DE_CONTROL.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\UNIDAD_DE_CONTROL.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\UNIDAD_DE_CONTROL.v|
+!i113 1
+R5
+R6
+n@control@unit
+vDataMemory
+R0
+!i10b 1
+!s100 E]F<36]Z7^]n4Snzfb:Bm1
+IXA7zPHL7>XZmcKcNUWTd^1
+R1
+R2
+w1764447018
+8C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\DATA_MEMORY.v
+FC:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\DATA_MEMORY.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\DATA_MEMORY.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\DATA_MEMORY.v|
+!i113 1
+R5
+R6
+n@data@memory
+vEX_MEM_Reg
+Z7 !s110 1764447116
+!i10b 1
+!s100 k;A6b_a]@30BPdb>Yn[GD2
+I<0b`;cgzhVYn5z9lEMJ4:1
+R1
+R2
+w1764447113
+8C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\EX_MEM.v
+FC:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\EX_MEM.v
+L0 2
+R3
+r1
+!s85 0
+31
+Z8 !s108 1764447116.000000
+!s107 C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\EX_MEM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\EX_MEM.v|
+!i113 1
+R5
+R6
+n@e@x_@m@e@m_@reg
+vForwardingUnit
+R0
+!i10b 1
+!s100 jmim<j72^KgiCoV<Gb];h3
+Ij9NznbR4RzU6lmP[6Z?]V1
+R1
+R2
+w1764447111
+8C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\ForwardingUnit.v
+FC:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\ForwardingUnit.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\ForwardingUnit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\ForwardingUnit.v|
+!i113 1
+R5
+R6
+n@forwarding@unit
+vHazardUnit
+R0
+!i10b 1
+!s100 G9j@VeTRa;kJ0D4f17Wj?0
+I]B>2z[Yi[=iWfeC?81[^i0
+R1
+R2
+w1764447110
+8C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\HazardUnit.v
+FC:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\HazardUnit.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\HazardUnit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\HazardUnit.v|
+!i113 1
+R5
+R6
+n@hazard@unit
+vID_EX_Reg
+R7
+!i10b 1
+!s100 HZMZ0D=J;0L1nOic=;Rk;1
+I]L:fKjdSiAnzcZn4zTbNP1
+R1
+R2
+w1764447108
+8C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\ID_EX.v
+FC:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\ID_EX.v
+L0 2
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\ID_EX.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\ID_EX.v|
+!i113 1
+R5
+R6
+n@i@d_@e@x_@reg
+vIF_ID_Reg
+R7
+!i10b 1
+!s100 =XL^JQW=`:=8O2L@cfFzU0
+IU4?E`Oo_Z6Kj44Hz1N6YU0
+R1
+R2
+w1764447107
+8C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\IF_ID.v
+FC:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\IF_ID.v
+L0 2
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\IF_ID.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\IF_ID.v|
+!i113 1
+R5
+R6
+n@i@f_@i@d_@reg
+vInstructionMemory
+R7
+!i10b 1
+!s100 WL`7P_Ol_iiTIV@z[JmM`3
+IdhizP`;WHnn=]JPKXg;P11
+R1
+R2
+w1764447106
+8C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\INSTRUCTION_MEMORY.v
+FC:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\INSTRUCTION_MEMORY.v
+L0 2
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\INSTRUCTION_MEMORY.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\INSTRUCTION_MEMORY.v|
+!i113 1
+R5
+R6
+n@instruction@memory
+vMEM_WB_Reg
+R7
+!i10b 1
+!s100 C?XTQJe7fQXH?nERch03n2
+I[]ZNIKP[A^[KD=_[P<ml32
+R1
+R2
+w1764447104
+8C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\MEM_WB.v
+FC:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\MEM_WB.v
+L0 2
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\MEM_WB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\MEM_WB.v|
+!i113 1
+R5
+R6
+n@m@e@m_@w@b_@reg
+vmips_pipeline
+R7
+!i10b 1
+!s100 ^DOz3EI8QXTM:VNV@U0ea3
+I3_7CUOB1Ph@WJnc?<gKRA1
+R1
+R2
+w1764447102
+8C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\MIPS.v
+FC:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\MIPS.v
+L0 3
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\MIPS.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\MIPS.v|
+!i113 1
+R5
+R6
+vMux2
+R0
+!i10b 1
+!s100 B=d>;_HAkb;oHbY=F`4n?1
+IaNDTVU?ZAUCEk]b2Xkzc^1
+R1
+R2
+w1764447099
+8C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\MULTIPLEXORES.v
+FC:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\MULTIPLEXORES.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\MULTIPLEXORES.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\MULTIPLEXORES.v|
+!i113 1
+R5
+R6
+n@mux2
+vMux2_5bits
+R0
+!i10b 1
+!s100 M[l^[XRVCQ4Rcd<3Iz4am3
+IQ76G<<C3Lz]5Y]V70E6MN3
+R1
+R2
+w1764447095
+8C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\Mux5bits.v
+FC:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\Mux5bits.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\Mux5bits.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\Mux5bits.v|
+!i113 1
+R5
+R6
+n@mux2_5bits
+vMux3
+R0
+!i10b 1
+!s100 5GHW17Pl9gY_YUT5R:iRY3
+I:@o6Wo5M?F7[T1:f2E2I@1
+R1
+R2
+w1764447097
+8C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\Mux3.v
+FC:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\Mux3.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\Mux3.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\Mux3.v|
+!i113 1
+R5
+R6
+n@mux3
+vProgramCounter
+R0
+!i10b 1
+!s100 c3kK2TYbbO1bK7OJZSX<@3
+IIClG^6:ml>>enB:R0i<B=1
+R1
+R2
+w1764447093
+8C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\PC.v
+FC:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\PC.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\PC.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\PC.v|
+!i113 1
+R5
+R6
+n@program@counter
+vRegisterFile
+R0
+!i10b 1
+!s100 lAS51E@X`[JX4OmY0P44z0
+II]6a@=4AFV5Z;[cmLh_ng0
+R1
+R2
+w1764447022
+8C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\BR.v
+FC:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\BR.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\BR.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\BR.v|
+!i113 1
+R5
+R6
+n@register@file
+vShiftLeft2
+R0
+!i10b 1
+!s100 7?SB=gf11<Y87zTbn;]Q>2
+IkXkJi^5?Pb>fF3gm]iKNL0
+R1
+R2
+w1764447092
+8C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\SHIFT_LEFT2.v
+FC:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\SHIFT_LEFT2.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\SHIFT_LEFT2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\SHIFT_LEFT2.v|
+!i113 1
+R5
+R6
+n@shift@left2
+vSignExtend
+R0
+!i10b 1
+!s100 N5Y_1oYh]^GQZS7Y]<L?b3
+IEB420W0PDf]6h5O[;H`d^2
+R1
+R2
+w1764447090
+8C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\SIGN_EXTEND.v
+FC:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\SIGN_EXTEND.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\SIGN_EXTEND.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\SIGN_EXTEND.v|
+!i113 1
+R5
+R6
+n@sign@extend
+vtestbench
+R7
+!i10b 1
+!s100 7^]zQY6h<A0XFNAEAjzgP0
+I86^@kIhUYL`09XaO9=99l0
+R1
+R2
+w1764447098
+8C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\MIPS_TB.v
+FC:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\MIPS_TB.v
+L0 2
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\MIPS_TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\MIPS_TB.v|
+!i113 1
+R5
+R6
