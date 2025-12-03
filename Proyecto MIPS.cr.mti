@@ -1,0 +1,148 @@
+{C:/Users/PC/Desktop/Jesus/Tareas INFO/Arquitectura de Computadoras/Proyecto de MIPS PIPELINE/ID_EX.v} {1 {vlog -work work -stats=none {C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\ID_EX.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ID_EX_Reg
+
+Top level modules:
+	ID_EX_Reg
+
+} {} {}} {C:/Users/PC/Desktop/Jesus/Tareas INFO/Arquitectura de Computadoras/Proyecto de MIPS PIPELINE/MIPS.v} {1 {vlog -work work -stats=none {C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\MIPS.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module mips_pipeline
+
+Top level modules:
+	mips_pipeline
+
+} {} {}} {C:/Users/PC/Desktop/Jesus/Tareas INFO/Arquitectura de Computadoras/Proyecto de MIPS PIPELINE/ALU.v} {1 {vlog -work work -stats=none {C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\ALU.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} {C:/Users/PC/Desktop/Jesus/Tareas INFO/Arquitectura de Computadoras/Proyecto de MIPS PIPELINE/DATA_MEMORY.v} {1 {vlog -work work -stats=none {C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\DATA_MEMORY.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module DataMemory
+
+Top level modules:
+	DataMemory
+
+} {} {}} {C:/Users/PC/Desktop/Jesus/Tareas INFO/Arquitectura de Computadoras/Proyecto de MIPS PIPELINE/PC.v} {1 {vlog -work work -stats=none {C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\PC.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ProgramCounter
+
+Top level modules:
+	ProgramCounter
+
+} {} {}} {C:/Users/PC/Desktop/Jesus/Tareas INFO/Arquitectura de Computadoras/Proyecto de MIPS PIPELINE/EX_MEM.v} {1 {vlog -work work -stats=none {C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\EX_MEM.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module EX_MEM_Reg
+
+Top level modules:
+	EX_MEM_Reg
+
+} {} {}} {C:/Users/PC/Desktop/Jesus/Tareas INFO/Arquitectura de Computadoras/Proyecto de MIPS PIPELINE/IF_ID.v} {1 {vlog -work work -stats=none {C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\IF_ID.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module IF_ID_Reg
+
+Top level modules:
+	IF_ID_Reg
+
+} {} {}} {C:/Users/PC/Desktop/Jesus/Tareas INFO/Arquitectura de Computadoras/Proyecto de MIPS PIPELINE/BR.v} {1 {vlog -work work -stats=none {C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\BR.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module RegisterFile
+
+Top level modules:
+	RegisterFile
+
+} {} {}} {C:/Users/PC/Desktop/Jesus/Tareas INFO/Arquitectura de Computadoras/Proyecto de MIPS PIPELINE/Mux3.v} {1 {vlog -work work -stats=none {C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\Mux3.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Mux3
+
+Top level modules:
+	Mux3
+
+} {} {}} {C:/Users/PC/Desktop/Jesus/Tareas INFO/Arquitectura de Computadoras/Proyecto de MIPS PIPELINE/UNIDAD_DE_CONTROL.v} {1 {vlog -work work -stats=none {C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\UNIDAD_DE_CONTROL.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ControlUnit
+
+Top level modules:
+	ControlUnit
+
+} {} {}} {C:/Users/PC/Desktop/Jesus/Tareas INFO/Arquitectura de Computadoras/Proyecto de MIPS PIPELINE/SIGN_EXTEND.v} {1 {vlog -work work -stats=none {C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\SIGN_EXTEND.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module SignExtend
+
+Top level modules:
+	SignExtend
+
+} {} {}} {C:/Users/PC/Desktop/Jesus/Tareas INFO/Arquitectura de Computadoras/Proyecto de MIPS PIPELINE/Mux5bits.v} {1 {vlog -work work -stats=none {C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\Mux5bits.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Mux2_5bits
+
+Top level modules:
+	Mux2_5bits
+
+} {} {}} {C:/Users/PC/Desktop/Jesus/Tareas INFO/Arquitectura de Computadoras/Proyecto de MIPS PIPELINE/HazardUnit.v} {1 {vlog -work work -stats=none {C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\HazardUnit.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module HazardUnit
+
+Top level modules:
+	HazardUnit
+
+} {} {}} {C:/Users/PC/Desktop/Jesus/Tareas INFO/Arquitectura de Computadoras/Proyecto de MIPS PIPELINE/SHIFT_LEFT2.v} {1 {vlog -work work -stats=none {C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\SHIFT_LEFT2.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ShiftLeft2
+
+Top level modules:
+	ShiftLeft2
+
+} {} {}} {C:/Users/PC/Desktop/Jesus/Tareas INFO/Arquitectura de Computadoras/Proyecto de MIPS PIPELINE/INSTRUCTION_MEMORY.v} {1 {vlog -work work -stats=none {C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\INSTRUCTION_MEMORY.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module InstructionMemory
+
+Top level modules:
+	InstructionMemory
+
+} {} {}} {C:/Users/PC/Desktop/Jesus/Tareas INFO/Arquitectura de Computadoras/Proyecto de MIPS PIPELINE/ALU_CONTROL.v} {1 {vlog -work work -stats=none {C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\ALU_CONTROL.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ALUControl
+
+Top level modules:
+	ALUControl
+
+} {} {}} {C:/Users/PC/Desktop/Jesus/Tareas INFO/Arquitectura de Computadoras/Proyecto de MIPS PIPELINE/ForwardingUnit.v} {1 {vlog -work work -stats=none {C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\ForwardingUnit.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ForwardingUnit
+
+Top level modules:
+	ForwardingUnit
+
+} {} {}} {C:/Users/PC/Desktop/Jesus/Tareas INFO/Arquitectura de Computadoras/Proyecto de MIPS PIPELINE/ADDERS.v} {1 {vlog -work work -stats=none {C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\ADDERS.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Adder
+
+Top level modules:
+	Adder
+
+} {} {}} {C:/Users/PC/Desktop/Jesus/Tareas INFO/Arquitectura de Computadoras/Proyecto de MIPS PIPELINE/MULTIPLEXORES.v} {1 {vlog -work work -stats=none {C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\MULTIPLEXORES.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Mux2
+
+Top level modules:
+	Mux2
+
+} {} {}} {C:/Users/PC/Desktop/Jesus/Tareas INFO/Arquitectura de Computadoras/Proyecto de MIPS PIPELINE/MIPS_TB.v} {1 {vlog -work work -stats=none {C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\MIPS_TB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module testbench
+
+Top level modules:
+	testbench
+
+} {} {}} {C:/Users/PC/Desktop/Jesus/Tareas INFO/Arquitectura de Computadoras/Proyecto de MIPS PIPELINE/MEM_WB.v} {1 {vlog -work work -stats=none {C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\MEM_WB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module MEM_WB_Reg
+
+Top level modules:
+	MEM_WB_Reg
+
+} {} {}}

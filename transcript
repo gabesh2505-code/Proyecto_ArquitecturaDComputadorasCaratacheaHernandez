@@ -1,0 +1,430 @@
+# Compile of MIPS.v was successful.
+# Compile of MIPS_TB.v was successful.
+# Compile of IF_ID.v was successful.
+# Compile of ID_EX.v was successful.
+# Compile of EX_MEM.v was successful.
+# Compile of MEM_WB.v was successful.
+# Compile of INSTRUCTION_MEMORY.v was successful.
+# Compile of DATA_MEMORY.v was successful.
+# Compile of ALU.v was successful.
+# Compile of ALU_CONTROL.v was successful.
+# Compile of UNIDAD_DE_CONTROL.v was successful.
+# Compile of BR.v was successful.
+# Compile of SIGN_EXTEND.v was successful.
+# Compile of SHIFT_LEFT2.v was successful.
+# Compile of ADDERS.v was successful.
+# Compile of MULTIPLEXORES.v was successful.
+# 16 compiles, 0 failed with no errors.
+# Compile of MIPS.v was successful.
+# Compile of MIPS_TB.v was successful.
+# Compile of IF_ID.v was successful.
+# Compile of ID_EX.v was successful.
+# Compile of EX_MEM.v was successful.
+# Compile of MEM_WB.v was successful.
+# Compile of INSTRUCTION_MEMORY.v was successful.
+# Compile of DATA_MEMORY.v was successful.
+# Compile of ALU.v was successful.
+# Compile of ALU_CONTROL.v was successful.
+# Compile of UNIDAD_DE_CONTROL.v was successful.
+# Compile of BR.v was successful.
+# Compile of SIGN_EXTEND.v was successful.
+# Compile of SHIFT_LEFT2.v was successful.
+# Compile of ADDERS.v was successful.
+# Compile of MULTIPLEXORES.v was successful.
+# Compile of PC.v was successful.
+# Compile of Mux5bits.v was successful.
+# Compile of Mux3.v was successful.
+# 19 compiles, 0 failed with no errors.
+# Compile of MIPS.v was successful.
+# Compile of MIPS_TB.v was successful.
+# Compile of IF_ID.v was successful.
+# Compile of ID_EX.v was successful.
+# Compile of EX_MEM.v was successful.
+# Compile of MEM_WB.v was successful.
+# Compile of INSTRUCTION_MEMORY.v was successful.
+# Compile of DATA_MEMORY.v was successful.
+# Compile of ALU.v was successful.
+# Compile of ALU_CONTROL.v was successful.
+# Compile of UNIDAD_DE_CONTROL.v was successful.
+# Compile of BR.v was successful.
+# Compile of SIGN_EXTEND.v was successful.
+# Compile of SHIFT_LEFT2.v was successful.
+# Compile of ADDERS.v was successful.
+# Compile of MULTIPLEXORES.v was successful.
+# Compile of PC.v was successful.
+# Compile of Mux5bits.v was successful.
+# Compile of Mux3.v was successful.
+# 19 compiles, 0 failed with no errors.
+# Compile of MIPS.v was successful.
+# Compile of MIPS_TB.v was successful.
+# Compile of IF_ID.v was successful.
+# Compile of ID_EX.v was successful.
+# Compile of EX_MEM.v was successful.
+# Compile of MEM_WB.v was successful.
+# Compile of INSTRUCTION_MEMORY.v was successful.
+# Compile of DATA_MEMORY.v was successful.
+# Compile of ALU.v was successful.
+# Compile of ALU_CONTROL.v was successful.
+# Compile of UNIDAD_DE_CONTROL.v was successful.
+# Compile of BR.v was successful.
+# Compile of SIGN_EXTEND.v was successful.
+# Compile of SHIFT_LEFT2.v was successful.
+# Compile of ADDERS.v was successful.
+# Compile of MULTIPLEXORES.v was successful.
+# Compile of PC.v was successful.
+# Compile of Mux5bits.v was successful.
+# Compile of Mux3.v was successful.
+# 19 compiles, 0 failed with no errors.
+# Compile of SIGN_EXTEND.v was successful.
+# Compile of MIPS.v was successful.
+# Compile of MIPS_TB.v was successful.
+# Compile of IF_ID.v was successful.
+# Compile of ID_EX.v was successful.
+# Compile of EX_MEM.v was successful.
+# Compile of MEM_WB.v was successful.
+# Compile of INSTRUCTION_MEMORY.v was successful.
+# Compile of DATA_MEMORY.v was successful.
+# Compile of ALU.v was successful.
+# Compile of ALU_CONTROL.v was successful.
+# Compile of UNIDAD_DE_CONTROL.v was successful.
+# Compile of BR.v was successful.
+# Compile of SIGN_EXTEND.v was successful.
+# Compile of SHIFT_LEFT2.v was successful.
+# Compile of ADDERS.v was successful.
+# Compile of MULTIPLEXORES.v was successful.
+# Compile of PC.v was successful.
+# Compile of Mux5bits.v was successful.
+# Compile of Mux3.v was successful.
+# Compile of HazardUnit.v was successful.
+# Compile of ForwardingUnit.v was successful.
+# 21 compiles, 0 failed with no errors.
+# Compile of MIPS.v was successful.
+# Compile of MIPS_TB.v was successful.
+# Compile of IF_ID.v was successful.
+# Compile of ID_EX.v was successful.
+# Compile of EX_MEM.v was successful.
+# Compile of MEM_WB.v was successful.
+# Compile of INSTRUCTION_MEMORY.v was successful.
+# Compile of DATA_MEMORY.v was successful.
+# Compile of ALU.v was successful.
+# Compile of ALU_CONTROL.v was successful.
+# Compile of UNIDAD_DE_CONTROL.v was successful.
+# Compile of BR.v was successful.
+# Compile of SIGN_EXTEND.v was successful.
+# Compile of SHIFT_LEFT2.v was successful.
+# Compile of ADDERS.v was successful.
+# Compile of MULTIPLEXORES.v was successful.
+# Compile of PC.v was successful.
+# Compile of Mux5bits.v was successful.
+# Compile of Mux3.v was successful.
+# Compile of HazardUnit.v was successful.
+# Compile of ForwardingUnit.v was successful.
+# 21 compiles, 0 failed with no errors.
+# Compile of MIPS.v was successful.
+# Compile of MIPS_TB.v was successful.
+# Compile of IF_ID.v was successful.
+# Compile of ID_EX.v was successful.
+# Compile of EX_MEM.v was successful.
+# Compile of MEM_WB.v was successful.
+# Compile of INSTRUCTION_MEMORY.v was successful.
+# Compile of DATA_MEMORY.v was successful.
+# Compile of ALU.v was successful.
+# Compile of ALU_CONTROL.v was successful.
+# Compile of UNIDAD_DE_CONTROL.v was successful.
+# Compile of BR.v was successful.
+# Compile of SIGN_EXTEND.v was successful.
+# Compile of SHIFT_LEFT2.v was successful.
+# Compile of ADDERS.v was successful.
+# Compile of MULTIPLEXORES.v was successful.
+# Compile of PC.v was successful.
+# Compile of Mux5bits.v was successful.
+# Compile of Mux3.v was successful.
+# Compile of HazardUnit.v was successful.
+# Compile of ForwardingUnit.v was successful.
+# 21 compiles, 0 failed with no errors.
+vsim work.testbench
+# vsim work.testbench 
+# Start time: 14:06:13 on Nov 29,2025
+# Loading work.testbench
+# Loading work.mips_pipeline
+# Loading work.ProgramCounter
+# Loading work.Adder
+# Loading work.InstructionMemory
+# Loading work.Mux2
+# Loading work.IF_ID_Reg
+# Loading work.ControlUnit
+# Loading work.RegisterFile
+# Loading work.SignExtend
+# Loading work.ShiftLeft2
+# ** Error: (vsim-3033) C:/Users/PC/Desktop/Jesus/Tareas INFO/Arquitectura de Computadoras/Proyecto de MIPS PIPELINE/MIPS.v(96): Instantiation of 'HazardUnit' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /testbench/uut File: C:/Users/PC/Desktop/Jesus/Tareas INFO/Arquitectura de Computadoras/Proyecto de MIPS PIPELINE/MIPS.v
+#         Searched libraries:
+#             C:/Users/PC/Desktop/Jesus/Tareas INFO/Arquitectura de Computadoras/Proyecto de MIPS PIPELINE/work
+# Loading work.ID_EX_Reg
+# Loading work.Mux3
+# Loading work.ALUControl
+# Loading work.ALU
+# Loading work.Mux2_5bits
+# ** Error: (vsim-3033) C:/Users/PC/Desktop/Jesus/Tareas INFO/Arquitectura de Computadoras/Proyecto de MIPS PIPELINE/MIPS.v(129): Instantiation of 'ForwardingUnit' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /testbench/uut File: C:/Users/PC/Desktop/Jesus/Tareas INFO/Arquitectura de Computadoras/Proyecto de MIPS PIPELINE/MIPS.v
+#         Searched libraries:
+#             C:/Users/PC/Desktop/Jesus/Tareas INFO/Arquitectura de Computadoras/Proyecto de MIPS PIPELINE/work
+# Loading work.EX_MEM_Reg
+# Loading work.DataMemory
+# Loading work.MEM_WB_Reg
+# Error loading design
+# End time: 14:06:13 on Nov 29,2025, Elapsed time: 0:00:00
+# Errors: 2, Warnings: 0
+vsim work.testbench
+# vsim work.testbench 
+# Start time: 14:06:19 on Nov 29,2025
+# Loading work.testbench
+# Loading work.mips_pipeline
+# Loading work.ProgramCounter
+# Loading work.Adder
+# Loading work.InstructionMemory
+# Loading work.Mux2
+# Loading work.IF_ID_Reg
+# Loading work.ControlUnit
+# Loading work.RegisterFile
+# Loading work.SignExtend
+# Loading work.ShiftLeft2
+# ** Error: (vsim-3033) C:/Users/PC/Desktop/Jesus/Tareas INFO/Arquitectura de Computadoras/Proyecto de MIPS PIPELINE/MIPS.v(96): Instantiation of 'HazardUnit' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /testbench/uut File: C:/Users/PC/Desktop/Jesus/Tareas INFO/Arquitectura de Computadoras/Proyecto de MIPS PIPELINE/MIPS.v
+#         Searched libraries:
+#             C:/Users/PC/Desktop/Jesus/Tareas INFO/Arquitectura de Computadoras/Proyecto de MIPS PIPELINE/work
+# Loading work.ID_EX_Reg
+# Loading work.Mux3
+# Loading work.ALUControl
+# Loading work.ALU
+# Loading work.Mux2_5bits
+# ** Error: (vsim-3033) C:/Users/PC/Desktop/Jesus/Tareas INFO/Arquitectura de Computadoras/Proyecto de MIPS PIPELINE/MIPS.v(129): Instantiation of 'ForwardingUnit' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /testbench/uut File: C:/Users/PC/Desktop/Jesus/Tareas INFO/Arquitectura de Computadoras/Proyecto de MIPS PIPELINE/MIPS.v
+#         Searched libraries:
+#             C:/Users/PC/Desktop/Jesus/Tareas INFO/Arquitectura de Computadoras/Proyecto de MIPS PIPELINE/work
+# Loading work.EX_MEM_Reg
+# Loading work.DataMemory
+# Loading work.MEM_WB_Reg
+# Error loading design
+# End time: 14:06:19 on Nov 29,2025, Elapsed time: 0:00:00
+# Errors: 2, Warnings: 0
+vsim work.mips_pipeline
+# vsim work.mips_pipeline 
+# Start time: 14:06:22 on Nov 29,2025
+# Loading work.mips_pipeline
+# Loading work.ProgramCounter
+# Loading work.Adder
+# Loading work.InstructionMemory
+# Loading work.Mux2
+# Loading work.IF_ID_Reg
+# Loading work.ControlUnit
+# Loading work.RegisterFile
+# Loading work.SignExtend
+# Loading work.ShiftLeft2
+# ** Error: (vsim-3033) C:/Users/PC/Desktop/Jesus/Tareas INFO/Arquitectura de Computadoras/Proyecto de MIPS PIPELINE/MIPS.v(96): Instantiation of 'HazardUnit' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /mips_pipeline File: C:/Users/PC/Desktop/Jesus/Tareas INFO/Arquitectura de Computadoras/Proyecto de MIPS PIPELINE/MIPS.v
+#         Searched libraries:
+#             C:/Users/PC/Desktop/Jesus/Tareas INFO/Arquitectura de Computadoras/Proyecto de MIPS PIPELINE/work
+# Loading work.ID_EX_Reg
+# Loading work.Mux3
+# Loading work.ALUControl
+# Loading work.ALU
+# Loading work.Mux2_5bits
+# ** Error: (vsim-3033) C:/Users/PC/Desktop/Jesus/Tareas INFO/Arquitectura de Computadoras/Proyecto de MIPS PIPELINE/MIPS.v(129): Instantiation of 'ForwardingUnit' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /mips_pipeline File: C:/Users/PC/Desktop/Jesus/Tareas INFO/Arquitectura de Computadoras/Proyecto de MIPS PIPELINE/MIPS.v
+#         Searched libraries:
+#             C:/Users/PC/Desktop/Jesus/Tareas INFO/Arquitectura de Computadoras/Proyecto de MIPS PIPELINE/work
+# Loading work.EX_MEM_Reg
+# Loading work.DataMemory
+# Loading work.MEM_WB_Reg
+# Error loading design
+# End time: 14:06:22 on Nov 29,2025, Elapsed time: 0:00:00
+# Errors: 2, Warnings: 0
+vsim work.Mux2_5bits
+# vsim work.Mux2_5bits 
+# Start time: 14:06:23 on Nov 29,2025
+# Loading work.Mux2_5bits
+vsim work.testbench
+# End time: 14:06:32 on Nov 29,2025, Elapsed time: 0:00:09
+# Errors: 0, Warnings: 0
+# vsim work.testbench 
+# Start time: 14:06:32 on Nov 29,2025
+# Loading work.testbench
+# Loading work.mips_pipeline
+# Loading work.ProgramCounter
+# Loading work.Adder
+# Loading work.InstructionMemory
+# Loading work.Mux2
+# Loading work.IF_ID_Reg
+# Loading work.ControlUnit
+# Loading work.RegisterFile
+# Loading work.SignExtend
+# Loading work.ShiftLeft2
+# ** Error: (vsim-3033) C:/Users/PC/Desktop/Jesus/Tareas INFO/Arquitectura de Computadoras/Proyecto de MIPS PIPELINE/MIPS.v(96): Instantiation of 'HazardUnit' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /testbench/uut File: C:/Users/PC/Desktop/Jesus/Tareas INFO/Arquitectura de Computadoras/Proyecto de MIPS PIPELINE/MIPS.v
+#         Searched libraries:
+#             C:/Users/PC/Desktop/Jesus/Tareas INFO/Arquitectura de Computadoras/Proyecto de MIPS PIPELINE/work
+# Loading work.ID_EX_Reg
+# Loading work.Mux3
+# Loading work.ALUControl
+# Loading work.ALU
+# Loading work.Mux2_5bits
+# ** Error: (vsim-3033) C:/Users/PC/Desktop/Jesus/Tareas INFO/Arquitectura de Computadoras/Proyecto de MIPS PIPELINE/MIPS.v(129): Instantiation of 'ForwardingUnit' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /testbench/uut File: C:/Users/PC/Desktop/Jesus/Tareas INFO/Arquitectura de Computadoras/Proyecto de MIPS PIPELINE/MIPS.v
+#         Searched libraries:
+#             C:/Users/PC/Desktop/Jesus/Tareas INFO/Arquitectura de Computadoras/Proyecto de MIPS PIPELINE/work
+# Loading work.EX_MEM_Reg
+# Loading work.DataMemory
+# Loading work.MEM_WB_Reg
+# Error loading design
+# End time: 14:06:32 on Nov 29,2025, Elapsed time: 0:00:00
+# Errors: 2, Warnings: 0
+vsim work.testbench
+# vsim work.testbench 
+# Start time: 14:08:27 on Nov 29,2025
+# Loading work.testbench
+# Loading work.mips_pipeline
+# Loading work.ProgramCounter
+# Loading work.Adder
+# Loading work.InstructionMemory
+# Loading work.Mux2
+# Loading work.IF_ID_Reg
+# Loading work.ControlUnit
+# Loading work.RegisterFile
+# Loading work.SignExtend
+# Loading work.ShiftLeft2
+# ** Error: (vsim-3033) C:/Users/PC/Desktop/Jesus/Tareas INFO/Arquitectura de Computadoras/Proyecto de MIPS PIPELINE/MIPS.v(96): Instantiation of 'HazardUnit' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /testbench/uut File: C:/Users/PC/Desktop/Jesus/Tareas INFO/Arquitectura de Computadoras/Proyecto de MIPS PIPELINE/MIPS.v
+#         Searched libraries:
+#             C:/Users/PC/Desktop/Jesus/Tareas INFO/Arquitectura de Computadoras/Proyecto de MIPS PIPELINE/work
+# Loading work.ID_EX_Reg
+# Loading work.Mux3
+# Loading work.ALUControl
+# Loading work.ALU
+# Loading work.Mux2_5bits
+# ** Error: (vsim-3033) C:/Users/PC/Desktop/Jesus/Tareas INFO/Arquitectura de Computadoras/Proyecto de MIPS PIPELINE/MIPS.v(129): Instantiation of 'ForwardingUnit' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /testbench/uut File: C:/Users/PC/Desktop/Jesus/Tareas INFO/Arquitectura de Computadoras/Proyecto de MIPS PIPELINE/MIPS.v
+#         Searched libraries:
+#             C:/Users/PC/Desktop/Jesus/Tareas INFO/Arquitectura de Computadoras/Proyecto de MIPS PIPELINE/work
+# Loading work.EX_MEM_Reg
+# Loading work.DataMemory
+# Loading work.MEM_WB_Reg
+# Error loading design
+# End time: 14:08:27 on Nov 29,2025, Elapsed time: 0:00:00
+# Errors: 2, Warnings: 0
+# Error opening C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\instrucciones
+# Path name 'C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\instrucciones' doesn't exist.
+# Error opening C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\instrucciones
+# Path name 'C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\instrucciones' doesn't exist.
+# Error opening C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\instrucciones
+# Path name 'C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\instrucciones' doesn't exist.
+# Error opening C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\instrucciones
+# Path name 'C:\Users\PC\Desktop\Jesus\Tareas INFO\Arquitectura de Computadoras\Proyecto de MIPS PIPELINE\instrucciones' doesn't exist.
+# Compile of MIPS.v was successful.
+# Compile of MIPS_TB.v was successful.
+# Compile of IF_ID.v was successful.
+# Compile of ID_EX.v was successful.
+# Compile of EX_MEM.v was successful.
+# Compile of MEM_WB.v was successful.
+# Compile of INSTRUCTION_MEMORY.v was successful.
+# Compile of DATA_MEMORY.v was successful.
+# Compile of ALU.v was successful.
+# Compile of ALU_CONTROL.v was successful.
+# Compile of UNIDAD_DE_CONTROL.v was successful.
+# Compile of BR.v was successful.
+# Compile of SIGN_EXTEND.v was successful.
+# Compile of SHIFT_LEFT2.v was successful.
+# Compile of ADDERS.v was successful.
+# Compile of MULTIPLEXORES.v was successful.
+# Compile of PC.v was successful.
+# Compile of Mux5bits.v was successful.
+# Compile of Mux3.v was successful.
+# Compile of HazardUnit.v was successful.
+# Compile of ForwardingUnit.v was successful.
+# 21 compiles, 0 failed with no errors.
+# Compile of MIPS.v was successful.
+# Compile of MIPS_TB.v was successful.
+# Compile of IF_ID.v was successful.
+# Compile of ID_EX.v was successful.
+# Compile of EX_MEM.v was successful.
+# Compile of MEM_WB.v was successful.
+# Compile of INSTRUCTION_MEMORY.v was successful.
+# Compile of DATA_MEMORY.v was successful.
+# Compile of ALU.v was successful.
+# Compile of ALU_CONTROL.v was successful.
+# Compile of UNIDAD_DE_CONTROL.v was successful.
+# Compile of BR.v was successful.
+# Compile of SIGN_EXTEND.v was successful.
+# Compile of SHIFT_LEFT2.v was successful.
+# Compile of ADDERS.v was successful.
+# Compile of MULTIPLEXORES.v was successful.
+# Compile of PC.v was successful.
+# Compile of Mux5bits.v was successful.
+# Compile of Mux3.v was successful.
+# Compile of HazardUnit.v was successful.
+# Compile of ForwardingUnit.v was successful.
+# 21 compiles, 0 failed with no errors.
+# Compile of MIPS.v was successful.
+# Compile of MIPS_TB.v was successful.
+# Compile of IF_ID.v was successful.
+# Compile of ID_EX.v was successful.
+# Compile of EX_MEM.v was successful.
+# Compile of MEM_WB.v was successful.
+# Compile of INSTRUCTION_MEMORY.v was successful.
+# Compile of DATA_MEMORY.v was successful.
+# Compile of ALU.v was successful.
+# Compile of ALU_CONTROL.v was successful.
+# Compile of UNIDAD_DE_CONTROL.v was successful.
+# Compile of BR.v was successful.
+# Compile of SIGN_EXTEND.v was successful.
+# Compile of SHIFT_LEFT2.v was successful.
+# Compile of ADDERS.v was successful.
+# Compile of MULTIPLEXORES.v was successful.
+# Compile of PC.v was successful.
+# Compile of Mux5bits.v was successful.
+# Compile of Mux3.v was successful.
+# Compile of HazardUnit.v was successful.
+# Compile of ForwardingUnit.v was successful.
+# 21 compiles, 0 failed with no errors.
+vsim work.testbench
+# vsim work.testbench 
+# Start time: 14:12:01 on Nov 29,2025
+# Loading work.testbench
+# Loading work.mips_pipeline
+# Loading work.ProgramCounter
+# Loading work.Adder
+# Loading work.InstructionMemory
+# Loading work.Mux2
+# Loading work.IF_ID_Reg
+# Loading work.ControlUnit
+# Loading work.RegisterFile
+# Loading work.SignExtend
+# Loading work.ShiftLeft2
+# Loading work.HazardUnit
+# Loading work.ID_EX_Reg
+# Loading work.Mux3
+# Loading work.ALUControl
+# Loading work.ALU
+# Loading work.Mux2_5bits
+# Loading work.ForwardingUnit
+# Loading work.EX_MEM_Reg
+# Loading work.DataMemory
+# Loading work.MEM_WB_Reg
+# ** Warning: (vsim-3017) C:/Users/PC/Desktop/Jesus/Tareas INFO/Arquitectura de Computadoras/Proyecto de MIPS PIPELINE/MIPS.v(103): [TFMPC] - Too few port connections. Expected 27, found 26.
+#    Time: 0 ps  Iteration: 0  Instance: /testbench/uut/ID_EX File: C:/Users/PC/Desktop/Jesus/Tareas INFO/Arquitectura de Computadoras/Proyecto de MIPS PIPELINE/ID_EX.v
+# ** Warning: (vsim-3722) C:/Users/PC/Desktop/Jesus/Tareas INFO/Arquitectura de Computadoras/Proyecto de MIPS PIPELINE/MIPS.v(103): [TFMPC] - Missing connection for port 'pc_plus4_out'.
+add wave -position end  sim:/testbench/clk
+add wave -position end  sim:/testbench/reset
+run -all
+# --- Start Simulation ---
+# --- Check Memory Results ---
+# Result[0]:          0 (Expected: 2)
+# Result[1]:          0 (Expected: 0)
+# Result[2]:          0 (Expected: 2)
+# Result[3]:          0 (Expected: 1)
+# Result[4]:          0 (Expected: 0)
+# ** Note: $stop    : C:/Users/PC/Desktop/Jesus/Tareas INFO/Arquitectura de Computadoras/Proyecto de MIPS PIPELINE/MIPS_TB.v(29)
+#    Time: 6020 ns  Iteration: 0  Instance: /testbench
+# Break in Module testbench at C:/Users/PC/Desktop/Jesus/Tareas INFO/Arquitectura de Computadoras/Proyecto de MIPS PIPELINE/MIPS_TB.v line 29
+# End time: 14:17:41 on Nov 29,2025, Elapsed time: 0:05:40
+# Errors: 0, Warnings: 2
